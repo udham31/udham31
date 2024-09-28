@@ -1,4 +1,3 @@
-[![MasterHead](https://i.pinimg.com/564x/b0/bf/21/b0bf2132ab1442f00195383f2cd8a553.jpg)
 
 <h1 align="center">Hi 👋, I'm Udham Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -16,7 +15,7 @@
 
 - 📫How to reach me udhambsr327@gmail.com
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
