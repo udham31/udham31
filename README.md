@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udham31&label=Profile%20views&color=0e75b6&style=flat" alt="udham31" /> </p>
 
-- 🔭 I’m currently working on **pursuing B.tech From**
+- 🔭 I’m currently working on **pursuing B.tech From RJIT**
 
 - 🌱 I’m currently learning **Front-End Development**
 
