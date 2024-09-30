@@ -11,7 +11,7 @@
 
 - ⚡I’m interested in **MERN Stack Development**
 
-- 👨‍💻 All of my projects are available at My Profile
+- 👨‍💻 All of my projects are available at [My Profile]
 
 - 📫How to reach me udhambsr327@gmail.com
 
