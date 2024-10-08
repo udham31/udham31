@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **pursuing B.tech From RJIT**
 
-- 🌱 I’m currently learning **Front-End Development**
+- 🌱 I’m currently learning **React**
 
 - ⚡I’m interested in **MERN Stack Development**
 
