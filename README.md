@@ -1,26 +1,68 @@
-
 <h1 align="center">Hi 👋, I'm Udham Singh</h1>
-<h3 align="center">A passionate Data Analysis from India</h3>
-<img align='right' alt='coding' width='300' src="https://th.bing.com/th/id/OIP.PPwhfI8pPocc_O6551HrwwAAAA?rs=1&pid=ImgDetMain">
+<h3 align="center">Aspiring Data Analyst | Turning Data into Insights 📊</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=udham31&label=Profile%20views&color=0e75b6&style=flat" alt="udham31" /> </p>
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **pursuing B.tech From RJIT**
-
-- 🌱 I’m currently learning **Power BI**
-
-- ⚡I’m interested in **Data Analysis **
-
-- 👨‍💻 All of my projects are available at [My Profile]
-
-- 📫How to reach me udhambsr327@gmail.com
-
-<p align="left">
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=udham31&label=Profile%20views&color=0e75b6&style=flat" alt="udham31" /> 
 </p>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udham31&show_icons=true&locale=en&layout=compact" alt="udham31" /></p>
+### 🚀 About Me
+- 🎓 Final-year B.Tech student at **Rustamji Institute of Technology (RJIT)**
+- 📊 Passionate about **Data Analytics & Visualization**
+- 🌱 Currently learning **Power BI, SQL & Advanced Excel**
+- 💡 Love creating **data-driven solutions** and uncovering insights
+- 🧠 Strong foundation in **Java, DSA & Problem Solving**
+- 🏆 Completed **#100DaysOfCode Challenge**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=udham31&show_icons=true&locale=en" alt="udham31" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udham31&" alt="udham31" /></p>
+### 🛠️ Tech Stack
+- 📊 **Data Analytics:** Excel, Power BI, Python (Pandas, NumPy)
+- 💻 **Programming:** Java, JavaScript
+- 🌐 **Web Development:** HTML, CSS, Bootstrap, Node.js
+- 🗄️ **Database:** MySQL, MongoDB
+- 📈 **Tools:** Git, GitHub, VS Code
+
+---
+
+### 📌 Featured Projects
+- 📊 **Ola Dashboard (Power BI)**  
+  → Analyzed booking trends, cancellations & revenue insights  
+
+- ♟️ **Chess Game (Node.js + Socket.io)**  
+  → Real-time multiplayer chess application  
+
+- 🏠 **Real Estate Website (React.js)**  
+  → Responsive UI with modern design  
+
+- 🎬 **Movie Search Website**  
+  → API-based search functionality  
+
+---
+
+### 📈 GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udham31&show_icons=true&locale=en&layout=compact" alt="udham31" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=udham31&show_icons=true&locale=en" alt="udham31" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udham31&" alt="udham31" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+- 📧 Email: **udhambsr327@gmail.com**
+- 💼 LinkedIn: *(Add your LinkedIn profile link here)*
+
+---
+
+### ⚡ Fun Fact
+I love combining **data + creativity** to build easy-to-use and impactful solutions 🚀
