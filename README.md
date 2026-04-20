@@ -13,33 +13,14 @@
 - 🎓 Final-year B.Tech student at **Rustamji Institute of Technology (RJIT)**
 - 📊 Passionate about **Data Analytics & Visualization**
 - 🌱 Currently learning **Power BI, SQL & Advanced Excel**
-- 💡 Love creating **data-driven solutions** and uncovering insights
-- 🧠 Strong foundation in **Java, DSA & Problem Solving**
-- 🏆 Completed **#100DaysOfCode Challenge**
+- 💡 Focused on extracting insights and supporting data-driven decisions
 
 ---
 
 ### 🛠️ Tech Stack
 - 📊 **Data Analytics:** Excel, Power BI, Python (Pandas, NumPy)
-- 💻 **Programming:** Java, JavaScript
-- 🌐 **Web Development:** HTML, CSS, Bootstrap, Node.js
-- 🗄️ **Database:** MySQL, MongoDB
+- 🗄️ **Database:** MySQL
 - 📈 **Tools:** Git, GitHub, VS Code
-
----
-
-### 📌 Featured Projects
-- 📊 **Ola Dashboard (Power BI)**  
-  → Analyzed booking trends, cancellations & revenue insights  
-
-- ♟️ **Chess Game (Node.js + Socket.io)**  
-  → Real-time multiplayer chess application  
-
-- 🏠 **Real Estate Website (React.js)**  
-  → Responsive UI with modern design  
-
-- 🎬 **Movie Search Website**  
-  → API-based search functionality  
 
 ---
 
@@ -60,9 +41,9 @@
 
 ### 🤝 Connect With Me
 - 📧 Email: **udhambsr327@gmail.com**
-- 💼 LinkedIn: *(Add your LinkedIn profile link here)*
+- 💼 LinkedIn: **https://www.linkedin.com/in/udham-singh-155459227/**
 
 ---
 
 ### ⚡ Fun Fact
-I love combining **data + creativity** to build easy-to-use and impactful solutions 🚀
+I enjoy transforming raw data into meaningful insights that drive smarter decisions 🚀
