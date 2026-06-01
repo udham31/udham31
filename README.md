@@ -39,7 +39,7 @@
 
 <p align="left">
 
-I'm Udham Singh from India 🇮🇳
+I'm Udham Singh from India
 
 <br><br>
 
