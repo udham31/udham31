@@ -105,6 +105,8 @@ I'm Udham Singh from India
 <h3 align="left">🚀 Featured Projects</h3>
 
 ###
+📊 Banking Customer Analysis Dashboard
+🔗 https://github.com/udham31/Banking-Customer-Analysis-Dashboard
 
 📊 OLA Sales Dashboard  
 🔗 https://github.com/udham31/Ola-DashBoard
@@ -115,8 +117,6 @@ I'm Udham Singh from India
 📈 Retail Sales Analysis  
 🔗 https://github.com/udham31/Sql_retail_sales-Pj1
 
-🌐 Portfolio Website  
-🔗 https://udham31.github.io/Portfolio_Udham/
 
 ###
 
